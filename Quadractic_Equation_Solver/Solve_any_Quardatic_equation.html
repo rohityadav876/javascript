@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+    <html>
+   <head>
+     <title>Queardatic Equation with simplycity </title>
+     <style type="text/css">
+	 body{
+	  font-family: Sans-Serif;
+       font-weight: bold;
+	 }
+     h1 {
+       text-align: center;
+      
+       font-size: 36px;
+       margin: 20px 0 30px 0;
+       padding: 0;
+     }
+     table {
+       width: 100%;
+       margin-left: auto;
+       margin-right: auto;
+       font-family: Sans-Serif;
+       font-size: 28px;
+     }
+     td {
+       height: 9.5em;
+       width: 15em;
+       vertical-align: top;
+       text-align: center;
+     }
+     </style>
+     
+
+     <script>
+     function single_problem() {
+       // Set to true for equations, false for expressions.
+       var eqn = true;
+        
+        
+   
+       // Construct the parts of the binomial (a1*x + c1)(a2*x + c2)
+       // Coefficients. Small numbers, usually 1.
+       var coeffs = [1, 1, 1, 2, 3, 4]
+       var a1 = coeffs[Math.floor(Math.random()*6)];
+       var a2 = coeffs[Math.floor(Math.random()*6)];
+      //  document.write(a2)
+     // Constants
+     var c1 = Math.floor(Math.random()*9 + 1);
+     var c2 = Math.floor(Math.random()*9 + 1);
+    // document.write();
+     // Change the signs of the constants at random.
+      if (Math.random() < .5) {
+        c1 = -c1;
+      }
+       if (Math.random() < .5) {
+         c2 = -c2;
+       }
+       
+       // Put in standard form
+       var A = a1*a2;
+       //document.write(A);
+       var B = a1*c2 + a2*c1;
+       var C = c1*c2;
+       var opB = opC = '+';
+       var quad = 'x<sup>2</sup> '
+       var lin = 'x '
+       var a = A   ;
+       var b = B  ;
+       var c= C; 
+       
+       
+        var x;
+ var y ;
+// //document.write(Math.sqrt(4));
+      x=( -b+ ( Math.sqrt((b*b)-(4*a*c))))/(2*a);
+//             //echo"X is  = \t\t". varx."<br/>";
+//			 
+////             document.write(x);
+            y=( -b- ( Math.sqrt((b*b)-(4*a*c))))/(2*a);
+           t="x = \t\t\t\t"+ x + "\t\t\t<br/>"+ "Or x =\t\t\t\t"+"\t\t\t"+ y+"<br/>";
+
+       
+       
+       
+       
+       
+       
+       
+      //answer(w,z,o);  
+      //document.write( o+"\n\t<br/>" );
+       // Determine the operators.
+       if (C < 0) {
+         opC = '&#8722;';
+         C = -C;
+       }
+       
+       if (B < 0) {
+         opB = '&#8722;';
+         B = -B;
+       }
+       else if (B == 0) {
+         opB = '';
+         B = '';
+         lin = '';
+      }
+       
+       // Don't show coefficients that are 1.
+       if (A == 1) A = '';
+       if (B == 1) B = '';
+   
+       term = A + quad + opB + ' ' + B + lin + opC + ' ' + C;
+       terms = term + " = 0";
+       display =terms + "<br/>" + t;
+      
+       if (eqn) {
+            
+           
+           return display ;
+       }else{
+       return term;
+       }
+     }
+     // document.write(single_problem());
+    </script>
+    
+	
+   </head>
+   <body bgcolor="#168" style="color:#dcdcdc"><h1 style="color:#dcdcdc">Quadratic Exercises</h1>
+   <h3 style="color:#ffffff"> This Script solove a huage problem of our school guys. This gives you a solution for every quardatic equation. As of now You need to Refresh this page to 
+   see the next answeres. Press F5 and see the magic happen. 
+   </h3>
+     <table id="whole"   >
+       <script>
+       for (i=0; i<4; i++){
+        document.write("<tr >");
+        for (j=0; j<2; j++) {
+         document.write('<td>' + single_problem() + '</td>');
+		
+        }
+        
+        document.write('</tr>');
+		
+		
+		
+		
+     }
+     </script>
+   </table>
+   
+  </body>
+  </html>
