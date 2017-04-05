@@ -1,0 +1,353 @@
+1
+00:00:00,040 --> 00:00:01,070
+- [Voiceover] Hey folks, this is Chad Perkins,
+
+2
+00:00:01,080 --> 00:00:03,020
+a filmmaker from Seattle.
+
+3
+00:00:03,030 --> 00:00:05,040
+This training series is part of a collection of courses
+
+4
+00:00:05,050 --> 00:00:08,060
+to teach you how to make a short film, start to finish.
+
+5
+00:00:08,070 --> 00:00:09,050
+As part of this training,
+
+6
+00:00:09,060 --> 00:00:11,070
+I made a short fantasy film called The Assurance,
+
+7
+00:00:11,080 --> 00:00:14,020
+and documented the entire process,
+
+8
+00:00:14,030 --> 00:00:16,040
+from writing and pre-production,
+
+9
+00:00:16,050 --> 00:00:19,010
+to working on set, through post-production,
+
+10
+00:00:19,020 --> 00:00:22,040
+to a screening in an independent movie theater in Seattle.
+
+11
+00:00:22,050 --> 00:00:24,050
+In this training, you'll get to see how we budgeted,
+
+12
+00:00:24,060 --> 00:00:27,030
+auditioned actors, set up lights and cameras,
+
+13
+00:00:27,040 --> 00:00:29,050
+wrote and recorded the orchestral score,
+
+14
+00:00:29,060 --> 00:00:32,040
+how we did all of our visual effects, everything.
+
+15
+00:00:32,050 --> 00:00:35,020
+You know, filmmaking is really about problem-solving,
+
+16
+00:00:35,030 --> 00:00:37,060
+so we'll show you the first drafts and rough cuts,
+
+17
+00:00:37,070 --> 00:00:39,050
+the challenges we had, the mistakes we made,
+
+18
+00:00:39,060 --> 00:00:42,050
+so that you can avoid those pitfalls on your projects.
+
+19
+00:00:42,060 --> 00:00:45,030
+This training consists of 13 separate training courses.
+
+20
+00:00:45,040 --> 00:00:47,070
+Each course focuses on a component of filmmaking
+
+21
+00:00:47,080 --> 00:00:49,040
+and will be released in the general order
+
+22
+00:00:49,050 --> 00:00:51,020
+of the filmmaking workflow.
+
+23
+00:00:51,030 --> 00:00:52,080
+The first course is on producing.
+
+24
+00:00:52,090 --> 00:00:54,030
+How do you get a project off the ground
+
+25
+00:00:54,040 --> 00:00:56,000
+and shepherd it to completion?
+
+26
+00:00:56,010 --> 00:00:57,050
+The second course is on writing.
+
+27
+00:00:57,060 --> 00:00:59,040
+We'll get an understanding of how to tell a story,
+
+28
+00:00:59,050 --> 00:01:01,050
+examining some of the best Hollywood films,
+
+29
+00:01:01,060 --> 00:01:04,000
+as well as how we created the world The Assurance.
+
+30
+00:01:04,010 --> 00:01:05,990
+Course number three is about pre-production,
+
+31
+00:01:06,000 --> 00:01:07,080
+getting the script ready to film.
+
+32
+00:01:07,090 --> 00:01:09,040
+We'll look at the meetings I had with our crew
+
+33
+00:01:09,050 --> 00:01:11,010
+about the schedule, budget,
+
+34
+00:01:11,020 --> 00:01:12,060
+designing the wardrobe from scratch,
+
+35
+00:01:12,070 --> 00:01:14,070
+developing concept art, and more.
+
+36
+00:01:14,080 --> 00:01:15,990
+The fourth course is on acting.
+
+37
+00:01:16,000 --> 00:01:17,990
+We'll look at what acting is really about
+
+38
+00:01:18,000 --> 00:01:20,040
+and we'll show you our auditions and rehearsals
+
+39
+00:01:20,050 --> 00:01:22,050
+and why we made the choices we did.
+
+40
+00:01:22,060 --> 00:01:24,010
+The fifth course is about directing,
+
+41
+00:01:24,020 --> 00:01:26,080
+where we'll look at controlling the tone, running the set,
+
+42
+00:01:26,090 --> 00:01:29,060
+and the many decisions that directors have to make.
+
+43
+00:01:29,070 --> 00:01:31,080
+Course number six is all about working on set.
+
+44
+00:01:31,090 --> 00:01:33,030
+What's that workflow like?
+
+45
+00:01:33,040 --> 00:01:34,990
+What do all these people do?
+
+46
+00:01:35,000 --> 00:01:35,990
+We'll look at all of that,
+
+47
+00:01:36,000 --> 00:01:37,030
+as well as a tutorial from my wife, Heather,
+
+48
+00:01:37,040 --> 00:01:39,030
+about how she created the special effects makeup
+
+49
+00:01:39,040 --> 00:01:40,080
+for our film.
+
+50
+00:01:40,090 --> 00:01:42,040
+The seventh course is about cinematography.
+
+51
+00:01:42,050 --> 00:01:44,020
+How can you use your camera and lighting
+
+52
+00:01:44,030 --> 00:01:47,000
+to tell your story in the best way?
+
+53
+00:01:47,010 --> 00:01:48,060
+Course number eight is about editing
+
+54
+00:01:48,070 --> 00:01:51,020
+and we'll see how we were able to reedit our initial story
+
+55
+00:01:51,030 --> 00:01:54,000
+to tell a completely different and much better one.
+
+56
+00:01:54,010 --> 00:01:56,070
+In course nine, we'll start to look at visual effects,
+
+57
+00:01:56,080 --> 00:01:59,060
+creating environments, adding elements to shots,
+
+58
+00:01:59,070 --> 00:02:02,000
+and removing objects from shots.
+
+59
+00:02:02,010 --> 00:02:03,080
+Course 10 is all about the stuff you think of
+
+60
+00:02:03,090 --> 00:02:05,030
+when you think of visual effects:
+
+61
+00:02:05,040 --> 00:02:07,030
+magic, particles, explosions,
+
+62
+00:02:07,040 --> 00:02:09,000
+you know, all that pretty stuff.
+
+63
+00:02:09,010 --> 00:02:10,050
+These are all things that you could do at home
+
+64
+00:02:10,060 --> 00:02:12,050
+for little to no money.
+
+65
+00:02:12,060 --> 00:02:13,990
+Course 11 is about color.
+
+66
+00:02:14,000 --> 00:02:15,030
+This was a huge part of The Assurance
+
+67
+00:02:15,040 --> 00:02:16,060
+and is an often underused tool
+
+68
+00:02:16,070 --> 00:02:18,000
+to transform bland footage
+
+69
+00:02:18,010 --> 00:02:21,070
+or even poorly-shot footage into something gorgeous.
+
+70
+00:02:21,080 --> 00:02:23,050
+Course 12 is all about audio.
+
+71
+00:02:23,060 --> 00:02:26,060
+We'll look at recording audio on set, composing the score,
+
+72
+00:02:26,070 --> 00:02:32,070
+and recording it, sound design,
+
+73
+00:02:32,080 --> 00:02:34,020
+and mixing it all together.
+
+74
+00:02:34,030 --> 00:02:36,030
+Finally, we'll wrap things up in course 13
+
+75
+00:02:36,040 --> 00:02:38,990
+by talking about how to market and distribute your film,
+
+76
+00:02:39,000 --> 00:02:40,040
+including how to make marketing materials
+
+77
+00:02:40,050 --> 00:02:41,080
+like logos and trailers,
+
+78
+00:02:41,090 --> 00:02:44,040
+and how to get your film seen by an audience.
+
+79
+00:02:44,050 --> 00:02:46,990
+I think it's a one of a kind experience
+
+80
+00:02:47,000 --> 00:02:49,010
+to not just learn about how to make films,
+
+81
+00:02:49,020 --> 00:02:51,080
+but to see what it's actually like to solve problems
+
+82
+00:02:51,090 --> 00:02:54,080
+and struggle and fail and compromise during that process.
+
+83
+00:02:54,090 --> 00:02:55,080
+- Cut.
+
+84
+00:02:55,090 --> 00:02:57,030
+- Now this has been years in the making,
+
+85
+00:02:57,040 --> 00:02:59,060
+so thank you so much for watching this.
+
+86
+00:02:59,070 --> 00:03:00,070
+Enjoy the training.
+
+87
+00:03:00,080 --> 00:03:01,990
+- That's a wrap.
+
+88
+00:03:02,000 --> 00:00:00,000
+(crowd cheers)
+
+
